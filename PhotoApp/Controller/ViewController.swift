@@ -10,11 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
 
     @IBOutlet weak var TextField: UITextField!
     
-    var textBox = ""
+    var textBox = String()
     
     override func viewDidLoad() {
         super.viewDidLoad()
