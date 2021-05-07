@@ -86,7 +86,7 @@ class CollectionViewController: UIViewController,UICollectionViewDelegate,UIColl
             
             case .success:
                 
-                for i in 0...19{
+                for i in 0...17{
                     
                     let json:JSON = JSON(response.data as Any)
                     
