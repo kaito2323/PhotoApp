@@ -5,6 +5,6 @@
 API連携練習のアプリです。
 
 # 使用技術
-pod 'SwiftyJSON'
-pod 'Alamofire'
-pod 'SDWebImage'
+* pod 'SwiftyJSON'
+* pod 'Alamofire'
+* pod 'SDWebImage'
